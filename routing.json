@@ -12,11 +12,32 @@
     "geosite:steam",
     "geosite:twitch",
     "geosite:pinterest",
-    "geosite:faceit"
+    "geosite:faceit",
+    "domain:mail.ru",
+    "domain:vk.com",
+    "domain:ok.ru",
+    "domain:yandex.ru",
+    "domain:yandex.net",
+    "domain:yandex.com",
+    "domain:ya.ru",
+    "domain:rambler.ru",
+    "domain:avito.ru",
+    "domain:ozon.ru",
+    "domain:wildberries.ru",
+    "domain:gosuslugi.ru",
+    "domain:nalog.ru",
+    "domain:sberbank.ru",
+    "domain:tinkoff.ru",
+    "domain:alfabank.ru",
+    "domain:vtb.ru",
+    "domain:kinopoisk.ru",
+    "domain:rutube.ru",
+    "domain:dzen.ru"
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct"
+    "geoip:direct",
+    "geoip:ru"
   ],
   "ProxySites": [
     "geosite:google-play",
@@ -41,18 +62,8 @@
     "m.doubleclick.net",
     "adservice.google.com",
     "adservice.google.ru",
-    "adservice.google.de",
-    "adservice.google.fr",
-    "adservice.google.co.uk",
-    "pagead2.googlesyndication.com",
-    "pagead.googlesyndication.com",
-    "yt3.ggpht.com",
     "imasdk.googleapis.com",
-    "ads.youtube.com",
-    "youtube.com/pagead",
-    "youtube.com/api/stats/ads",
-    "youtube.com/get_video_info",
-    "youtubei.googleapis.com/youtubei/v1/log_event"
+    "ads.youtube.com"
   ],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "false"
