@@ -55,4 +55,17 @@
   ],
   "BlockIp": [],
   "BlockHosts": [
-    "googleadservices.c
+    "googleadservices.com",
+    "googlesyndication.com",
+    "doubleclick.net",
+    "ad.doubleclick.net",
+    "static.doubleclick.net",
+    "m.doubleclick.net",
+    "adservice.google.com",
+    "adservice.google.ru",
+    "imasdk.googleapis.com",
+    "ads.youtube.com"
+  ],
+  "DomainStrategy": "IPIfNonMatch",
+  "FakeDNS": "false"
+}
