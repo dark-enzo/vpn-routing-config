@@ -20,6 +20,7 @@
     "domain:yandex.net",
     "domain:yandex.com",
     "domain:ya.ru",
+    "domain:2ip.ru",
     "domain:rambler.ru",
     "domain:avito.ru",
     "domain:ozon.ru",
@@ -37,7 +38,7 @@
   "DirectIp": [
     "geoip:private",
     "geoip:direct",
-    "geoip:ru"
+    "geoip:whitelist"
   ],
   "ProxySites": [
     "geosite:google-play",
@@ -54,17 +55,4 @@
   ],
   "BlockIp": [],
   "BlockHosts": [
-    "googleadservices.com",
-    "googlesyndication.com",
-    "doubleclick.net",
-    "ad.doubleclick.net",
-    "static.doubleclick.net",
-    "m.doubleclick.net",
-    "adservice.google.com",
-    "adservice.google.ru",
-    "imasdk.googleapis.com",
-    "ads.youtube.com"
-  ],
-  "DomainStrategy": "IPIfNonMatch",
-  "FakeDNS": "false"
-}
+    "googleadservices.c
